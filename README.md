@@ -43,3 +43,31 @@ analysis) in R. Full write-up, figures, and analysis scripts:
 
 Maziar Abedzadeh
 
+
+
+---
+
+## Also in this repository
+
+### Dry Electrode 4680 — Complete Manufacturing Handbook
+
+96-page technical reference on solvent-free electrode production for automotive
+46-series cylindrical cells. Covers process physics, machine datasheets,
+instrumentation and control loops, defect engineering and FMEA, troubleshooting
+decision trees, facility and utilities, and procurement with FAT/SAT acceptance
+protocol.
+
+Compiled from published literature, patent documents and peer-reviewed teardown
+studies. Appendix F is a register of 27 numbered sources across six evidence
+tiers, each with its public access route. Contains no confidential or
+proprietary information.
+
+📄 [Read the handbook](Dry_Electrode_4680_Complete_Handbook.pdf)
+
+### Glioblastoma Differential Gene Expression Analysis
+
+Computational transcriptomics on the Ivy GAP dataset — comparing gene expression
+between Infiltrating Tumor and Cellular Tumor zones across 122 RNA-seq samples
+using DESeq2 and WGCNA in R.
+
+📁 [View the project](glioblastoma-dge/)

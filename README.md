@@ -62,8 +62,7 @@ studies. Appendix F is a register of 27 numbered sources across six evidence
 tiers, each with its public access route. Contains no confidential or
 proprietary information.
 
-📄 [Read the handbook](Dry_Electrode_4680_Complete_Handbook.pdf)
-
+📄 [Read the handbook](https://raw.githubusercontent.com/abedzadehmaziar9-a11y/factory-end-to-end/main/Dry_Electrode_4680_Complete_Handbook.pdf)
 ### Glioblastoma Differential Gene Expression Analysis
 
 Computational transcriptomics on the Ivy GAP dataset — comparing gene expression

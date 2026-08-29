@@ -9,6 +9,7 @@ Compiled & researched by **Maziar Abedzadeh**
 ## About
 
 A 272-page collected reference covering the software, hardware, and planning systems that run a modern manufacturing plant — from the sensor and the bolt on the floor, through controllers, networks, motors and pneumatics, up to production planning and the data journey to the cloud.
+📘 [Read The Factory, End to End](https://raw.githubusercontent.com/abedzadehmaziar9-a11y/factory-end-to-end/main/The_Factory_End_to_End_Complete_Library_EN.pdf)
 
 ## Contents
 
